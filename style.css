@@ -2,7 +2,7 @@ body{
     height: 1748px;
     width: 1240px;
     min-width: 1240px;
-    max-width: 1748px;
+    min-height: 1748px;
     font-family:"praktika";
     background-color: rgb(199, 218, 208);
     margin: 0 auto;
