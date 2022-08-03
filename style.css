@@ -14,7 +14,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: aliceblue;
-    height: fit-content;
+    height: 200px;
     width: 1240px;
     display:inline-block;
 }
